@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Oheun&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
-
 ### Hi there 👋
 
 My name is OheunKim. I'm double majoring in Psychology and applied Artificial Intelligence.
