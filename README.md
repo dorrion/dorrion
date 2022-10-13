@@ -3,6 +3,8 @@
 My name is OheunKim. I'm double majoring in Psychology and applied Artificial Intelligence.
 - I'm currently learning JavaScript & React
 
+blog : https://oncode.tistory.com/
+
 contact : dhdms8696@naver.com
 
 ![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=dorrion&show_icons=true&theme=tokyonight)
