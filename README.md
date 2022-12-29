@@ -1,21 +1,21 @@
-### Frontend Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Balsamiq+Sans&pause=5000&color=F7C611&center=true&repeat=false&width=435&lines=Hello!+I'm+Oheun)](https://git.io/typing-svg)
 
-My name is OheunKim. I'm double majoring in Psychology and applied Artificial Intelligence.
-- I'm currently learning JavaScript & React
+About me
+I'm double majoring in Psychology and applied Artificial Intelligence.
+- I'm currently learning Frontend
 
-blog : https://oncode.tistory.com/
+- 🌱 Interesting on Frontend
+- 🤙 This is my [Blog](https://oncode.tistory.com/)
+- 💬 Contact : dhdms8696@naver.com
 
-contact : dhdms8696@naver.com
+![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
 
-![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=dorrion&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dorrion&theme=dark&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dorrion&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dorrion&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)</td>
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dorrion&theme=nord_dark)
-
-## 💻 STACK
-
-![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
