@@ -11,7 +11,7 @@ contact : dhdms8696@naver.com
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dorrion&theme=dark&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dorrion&theme=nord_dark)
 
 ## 💻 STACK
 
