@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently learning Typescript, React
 - 🤙 This is my [Blog](https://oncode.tistory.com/)
-- 💬 Contact : dhdms8696@naver.com
+- 💬 Contact : oheun.dev@gmail.com
 
 ![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white)
