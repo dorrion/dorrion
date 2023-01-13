@@ -11,8 +11,8 @@
 ![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
 
 ### 📈 My GitHub Statistics
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dorrion&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dorrion&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)</td>
+<!-- [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dorrion&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dorrion&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)</td> -->
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dorrion&theme=nord_dark)
