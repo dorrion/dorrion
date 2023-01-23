@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Balsamiq+Sans&pause=5000&color=F7C611&center=true&repeat=false&width=435&lines=Hello!+I'm+Oheun)](https://git.io/typing-svg)
-
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Balsamiq+Sans&pause=5000&color=F7C611&center=true&repeat=false&width=435&lines=Hello!+I'm+Oheun)](https://git.io/typing-svg)
+ -->
 ### About me
 
 - 🌱 I'm currently learning Typescript, React
